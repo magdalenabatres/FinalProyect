@@ -1537,9 +1537,10 @@ footer {
     transition: all 300ms ease;
     opacity: 0;
 }
-/* 
-MEDIAS
-*/
+
+
+
+/*  MEDIAS  */
 
 
 @media (max-width: 640px) {
